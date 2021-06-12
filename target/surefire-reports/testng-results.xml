@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="107" started-at="2021-04-30T13:25:20 IST" finished-at="2021-04-30T13:25:20 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="107" started-at="2021-04-30T13:25:20 IST" finished-at="2021-04-30T13:25:20 IST">
+      <class name="rahulshettyacademy.Mavenjava.RestAPITest">
+        <test-method status="PASS" signature="RestAPITool()[pri:0, instance:rahulshettyacademy.Mavenjava.RestAPITest@63e2203c]" name="RestAPITool" duration-ms="1" started-at="2021-04-30T13:25:20 IST" finished-at="2021-04-30T13:25:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPITool -->
+        <test-method status="PASS" signature="elementid()[pri:0, instance:rahulshettyacademy.Mavenjava.RestAPITest@63e2203c]" name="elementid" duration-ms="0" started-at="2021-04-30T13:25:20 IST" finished-at="2021-04-30T13:25:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementid -->
+      </class> <!-- rahulshettyacademy.Mavenjava.RestAPITest -->
+      <class name="rahulshettyacademy.Mavenjava.SeleniumJavaTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:rahulshettyacademy.Mavenjava.SeleniumJavaTest@1efed156]" name="BrowserAutomation" duration-ms="0" started-at="2021-04-30T13:25:20 IST" finished-at="2021-04-30T13:25:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="Selenium()[pri:0, instance:rahulshettyacademy.Mavenjava.SeleniumJavaTest@1efed156]" name="Selenium" duration-ms="1" started-at="2021-04-30T13:25:20 IST" finished-at="2021-04-30T13:25:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Selenium -->
+      </class> <!-- rahulshettyacademy.Mavenjava.SeleniumJavaTest -->
+      <class name="rahulshettyacademy.Mavenjava.AppiumTest">
+        <test-method status="PASS" signature="AppiumTool()[pri:0, instance:rahulshettyacademy.Mavenjava.AppiumTest@50b494a6]" name="AppiumTool" duration-ms="8" started-at="2021-04-30T13:25:20 IST" finished-at="2021-04-30T13:25:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumTool -->
+        <test-method status="PASS" signature="elementsUI()[pri:0, instance:rahulshettyacademy.Mavenjava.AppiumTest@50b494a6]" name="elementsUI" duration-ms="1" started-at="2021-04-30T13:25:20 IST" finished-at="2021-04-30T13:25:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+      </class> <!-- rahulshettyacademy.Mavenjava.AppiumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
